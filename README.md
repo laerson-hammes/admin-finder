@@ -6,7 +6,7 @@ You can use **-hn** or **--host** to specify the hostname and, **-w** or **--wor
 
 For help, use **-h** or **--help**
 
-> **Example:** python .\whois-script.py -h
+> **Example:** python .\admin-finder.py -h
 
 Observation:
 
